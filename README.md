@@ -21,27 +21,28 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/527a16eb-46c6-43eb-8b56-ebab53fe8ee8)
 
 
- 4 - Clique no link para instalar o plugin no seu Google Chrome
+ 4 - Clique no link para instalar o plugin no seu **Google Chrome**
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/53efb480-3f63-4788-993d-b5b9e2c15927)
 
- 5 - Apos clicar no link chrome,
+ 5 - Apos clicar no link, você será direcionando para a Loja do Chrome, feito isso, clique em **Usar no Chrome**
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/ca08ecf0-1b81-40a0-a09d-1add5746e2ce)
 
- Após dar um refresh no desk o icone abaixo irá aparecer:
+ 6 - Após dar um refresh no desk o icone abaixo irá aparecer:
+ 
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/707f13b6-b251-4c86-8429-8560c13ed052)
 
- Tela da extensão:
+ 7 - Ao clicar no icone que aparece no seu BlipDesk, a tela abaixo irá aparecer no canto direito da tela:
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/82b6c7d6-6ac6-4049-bbd5-572d2172055a)
 
- ao clicar:
+8 - Ao clicar no icone acima, seu formulário irá aparecer e pronto para usar conforme suas configurações realizadas no **Bitrix24.Forms**
  ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/5a6195fa-6c7b-4c91-8436-992e9e0e48d1)
 
 
- Aqui esta o link de como criar um formulário no Bitrix24:
+Não sabe como criar um formulário? Deixamos um link com o passo a passo de como criar esse formulário:
 
  🌐 https://helpdesk.bitrix24.com.br/widget2/open/17877764?SOURCE_LINK_PLACE=OTHER&VISITOR_ID=a__4f310f3de246105ebc8a29baeabd7205083f68b1b2ed3aa5eb76dddb82cf41de&CUSTOM_SESSION_ID=f3ce723598fcf7fe10c42c40a8aa2de91457b165d12fe2dcba9a0bb792138a92&PREVIOUS_PATH=%2Fwidget2%2F114053&ANCHOR=
  
 
  🎥:
  
- E-mail: contato@pontoparse.net
+E-mail: contato@pontoparse.net
