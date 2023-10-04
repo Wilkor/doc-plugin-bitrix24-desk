@@ -38,11 +38,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
  **7** - Ao clicar no icone que aparece no seu BlipDesk, a tela abaixo irá aparecer no canto direito da tela:
  
- ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/82b6c7d6-6ac6-4049-bbd5-572d2172055a)
+![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/4328d6df-a5ad-4190-bf48-89ce26d6f529)
+
 
 **8**- Ao clicar no icone acima, seu formulário irá aparecer e pronto para usar conforme suas configurações realizadas no **Bitrix24.Forms**:
 
- ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/5a6195fa-6c7b-4c91-8436-992e9e0e48d1)
+![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/6804f25b-6086-4eb9-abe1-11affc9cc6cb)
+
 
 
 **Não sabe como criar um formulário? Deixamos um link com o passo a passo de como criar esse formulário**:
