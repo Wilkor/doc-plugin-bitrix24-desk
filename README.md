@@ -1,17 +1,17 @@
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
 
-# Como utilizar a extensão Bitrix24 Forms!
+# Como utilizar a extensão Desk Forms!
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por: **Bitrix24 Forms** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
+ - Procure por: **Desk Forms** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
 
  # Adicionando um formuláro Bitrix24 no BlipDesk!
  
-  **1** - Abrir a extensão Bitrix24 forms:
+  **1** - Abrir a extensão Desk Forms:
   
   ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/79ce84f3-83bf-4bfb-9e66-2db76956be30)
 
