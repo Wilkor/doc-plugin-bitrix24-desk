@@ -57,14 +57,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/79ce84f3-83bf-4bfb-9e66-2db76956be30)
 
- **2** - Após ter criado o formulário no Bitrix24, você insere a url aqui, conforme tela abaixo:
+ **2** - Após ter criado o formulário no Asana, você insere a url aqui, conforme tela abaixo:
  
- ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/f28382fe-83e0-4011-a503-e4fb33be68df)
+![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/02370125-e1f7-4336-8ead-4973ba0a0438)
 
  **3** - Clique no botão Ativar Extensão:
  
- ![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/527a16eb-46c6-43eb-8b56-ebab53fe8ee8)
-
+![image](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/964aaae4-b35c-48a0-8688-9cfe0e0a4f3d)
 
  **4** - Clique no link para instalar o plugin no seu **Google Chrome**:
  
