@@ -1,5 +1,4 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-bitrix24-desk/assets/34819624/31e3c881-9068-413d-9ca9-7964df1274bf)
 
 # Como utilizar a extensão Desk Forms!
 
